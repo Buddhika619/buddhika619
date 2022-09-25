@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/buddhika-gamage-26288822a/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.codewars.com/users/BattaBoy" title="Code Wars Profile"><img width="22" src="images/codewars-svgrepo-com.svg"> HackerRank</a></code>
+  <code><a href="https://www.codewars.com/users/BattaBoy" title="Code Wars Profile"><img width="22" src="images/codewars-svgrepo-com.svg"> Code Wars</a></code>
 
 </h5>
 <br>
@@ -24,7 +24,6 @@
 ***   
 
 
-<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
