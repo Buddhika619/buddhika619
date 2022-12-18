@@ -11,10 +11,10 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Buddhika Gamage, Information Technology Undergraduate.
+  Hi, I'm Buddhika Gamage, Information Technology(BIT) Undergraduate at UCSC.
   <br>
   <br>
-  🔬 I'm currently studying for a bacholor's degree in UCSC
+ 
 </p>
  
 
