@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Buddhika Gamage, Information Technology(BIT) Undergraduate at UCSC.
+  Hi, I'm Buddhika Gamage, Information Technology undergraduate at UCSC.
   <br>
   <br>
  
